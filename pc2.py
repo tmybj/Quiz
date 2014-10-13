@@ -13,5 +13,4 @@ counter = Counter(words)
 for word, cnt in counter.most_common():
     print word, cnt
 
-
 #print word 
